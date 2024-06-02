@@ -1,2 +1,31 @@
-
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	padding:2px
+}
+.item{
+	color:black;
+	background-color:green;
+	width:100px;
+	height:100px;
+	border:1px solid black;
+	padding:1px;
+}
+.box6{
+	color:black;
+	background-color:red;
+	width:100px;
+	height:100px;
+	border:1px solid black;
+	padding:2px;
+}
+.box7{
+	color:black;
+	background-color:blue;
+	width:100px;
+	height:100px;
+	border:1px solid black;
+	padding:2px;
+}
 /* Your CSS Code here. */
